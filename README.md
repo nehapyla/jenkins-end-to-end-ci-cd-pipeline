@@ -1,5 +1,11 @@
 # End-to-End CI/CD Pipeline using Jenkins, SonarQube, Nexus & Apache Tomcat
 
+![Jenkins](https://img.shields.io/badge/Jenkins-CI-D24939?logo=jenkins&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-Build-C71A36?logo=apachemaven&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-Code%20Quality-4E9BCD?logo=sonarqube&logoColor=white)
+![Nexus](https://img.shields.io/badge/Nexus-Repository-1B1C30?logo=sonatype&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-Deployment-F8DC75?logo=apachetomcat&logoColor=black)
+
 ## Project Overview
 
 This project demonstrates a complete **End-to-End Continuous Integration and Continuous Deployment (CI/CD) pipeline** for a Java web application. The pipeline automates source code retrieval, application build, code quality analysis, artifact management, deployment, email notifications, and Jenkins backup.
@@ -79,6 +85,8 @@ The objective of this project is to simulate a real-world DevOps workflow by int
 ---
 
 ## Jenkins Pipeline
+
+![Pipeline](screenshots/deploy-msg.png)
 
 ![Pipeline](screenshots/pipeline-stg-view.png)
 
