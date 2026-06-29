@@ -78,6 +78,12 @@ The objective of this project is to simulate a real-world DevOps workflow by int
 
 ---
 
+## Jenkins Pipeline
+
+![Pipeline](screenshots/pipeline-stg-view.png)
+
+---
+
 # Features
 
 * Automated CI/CD Pipeline
