@@ -8,15 +8,12 @@ This document summarizes common issues encountered while building the End-to-End
 
 # 1. Jenkins Service Failed to Start
 
-### Issue
+### Issue - Jenkins service did not start successfully.
 
-Jenkins service did not start successfully.
-
-### Cause
+### Cause -
 * Incorrect Java version
 
-### Resolution
-
+### Resolution -
 * Verified Java installation.
 * Checked the Jenkins service status.
 * Restarted the Jenkins service.
@@ -48,7 +45,7 @@ Jenkins service did not start successfully.
 * Authentication failure
 * Invalid recipient email address
 
-### Resolution
+### Resolution -
 * Verified SMTP server configuration.
 * Updated email credentials.
 * Sent a test email.
@@ -60,7 +57,7 @@ Jenkins service did not start successfully.
 
 ### Issue - ThinBackup did not create a backup.
 
-### Cause
+### Cause -
 * Invalid backup directory
 
 ### Resolution - 
